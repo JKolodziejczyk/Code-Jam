@@ -1,0 +1,3 @@
+C:/Users/Jakub/codajam2/cmake-build-debug/CMakeFiles/codajam2.dir
+C:/Users/Jakub/codajam2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jakub/codajam2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
